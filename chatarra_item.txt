@@ -1,0 +1,9 @@
+Añade a tu sql el item de "chatarra"
+
+Sigue los siguientes intervalos
+
+name = chatarra
+label = Chatarra
+weight = 20
+rare = 0
+can_remove = 1
